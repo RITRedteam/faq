@@ -3,7 +3,7 @@
 ## How can I be on redteam?
 This is easily the most common question that we get. We try to keep redteam here pretty open and inclusive but we do have a few rules for our members.
 
-__1. You must have competed in _atleast_ 3 competitions as a blue teamer__  
+__1. You must have competed in _at least_ 3 competitions as a blue teamer__  
 Your first semester (at minimum) should be spent learning about systems and getting familier with competitions. This is critical in order to be an effective redteam member. In addtion to familiarity, Blue and Red team have very complimentary skills. You will learn a lot from blueteaming. Because of this requirement, it is almost impossible to be on redteam within your first semester at school.
 
 
